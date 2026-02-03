@@ -1,0 +1,2 @@
+# Requires: potential-threshold
+# (Not available on PyPI)
